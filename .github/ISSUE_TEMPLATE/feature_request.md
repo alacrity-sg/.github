@@ -4,7 +4,8 @@ about: Suggest an idea for this project
 title: 'Feature: '
 labels: 'enhancement'
 assignees: 'bockyanggoh'
-
+projects: ['alacrity-sg/2']
+type: ['Feature']
 ---
 
 **Is your feature request related to a problem? Please describe.**
