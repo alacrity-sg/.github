@@ -5,7 +5,7 @@ title: 'Feature: '
 labels: 'enhancement'
 assignees: 'bockyanggoh'
 projects: ['alacrity-sg/2']
-type: ['Feature']
+type: 'Feature'
 ---
 
 **Is your feature request related to a problem? Please describe.**
